@@ -1,8 +1,8 @@
 ### Welcome to my Github 
-- 🌱 I’m currently learning Ruby, JavaScript, HTML and CSS
+- 🌱 I’m currently learning Ruby, JavaScript, HTML, CSS, Rails and React,
 - 📫 How to reach me: LinkedIn = *awaritefe*
 - ⚡ Fun fact: I have degree in dance 
-- 👯 I’m looking to collaborate more with my Scrapehub team and my LeWagon batch 523 family on more fun projects!
+- 👯 I’m building and working on small projects for my portfolio
 
 I am from Camden in London 
 Have a natural pull towards Frontend Web Development but im working on a Fullstack approach. 
